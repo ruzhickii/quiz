@@ -1,0 +1,12 @@
+{
+  "name": "Quiz",
+  "version": "1.0.0",
+  "description": "some-description",
+  "main": "index.js",
+  "repository": "git@github.com:/ruzhickii/quiz.git",
+  "scripts": {},
+  "author": "Alexander Ruzhickii",
+  "license": "",
+  "devDependencies": {},
+  "dependencies": {}
+}
